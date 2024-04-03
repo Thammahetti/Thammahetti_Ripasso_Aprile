@@ -1,0 +1,26 @@
+
+.imagea{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 300px;
+   
+    flex-direction: column;
+  
+}
+.btn_home{
+    background-color: transparent;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    border: 0px;
+    font-size: 35px;
+    
+    color: rgb(0, 0, 0);
+    transition: 0.3s;
+}
+.btn_home:hover{
+    font-size: 40px;
+    color: rgb(97, 96, 96);
+    
+}
